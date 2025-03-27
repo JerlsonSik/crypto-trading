@@ -1,1 +1,3 @@
 node_modules
+fundingRatesBot/.env
+server/.env
